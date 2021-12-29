@@ -1,0 +1,23 @@
+
+Station id:	2223023
+Districts:	Melaka Tengah
+Station Name:	Sg Duyong
+Day 1	11.0
+Day 2	27.0
+Day 3	11.0
+Day 4	26.0
+Day 5	41.0
+Day 6	0.0
+
+Average for selected startion is 19.3%
+Station id:	2222003
+Districts:	Melaka Tengah
+Station Name:	Klebang besar
+Day 1	9.0
+Day 2	0.0
+Day 3	31.0
+Day 4	1.0
+Day 5	25.0
+Day 6	0.0
+
+Average for selected startion is 11.0%
